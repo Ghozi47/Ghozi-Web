@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "tugas7",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Location_Name": "Rumah ", "Lintang": -6.3048173790032296, "Bujur": 106.715454978973 }, "geometry": { "type": "Point", "coordinates": [ 106.715454978973, -6.30481737900323 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "RM. Bagindo Masakan Padang", "Lintang": -6.3030935085017701, "Bujur": 106.715716247183 }, "geometry": { "type": "Point", "coordinates": [ 106.715716247182996, -6.30309350850177 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "KOPI KULINER", "Lintang": -6.3028043234474298, "Bujur": 106.716148582939 }, "geometry": { "type": "Point", "coordinates": [ 106.716148582938999, -6.30280432344743 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "Ayam Gepuk Pak Gembus Tanah Tingal", "Lintang": -6.3038997125769098, "Bujur": 106.71811744178299 }, "geometry": { "type": "Point", "coordinates": [ 106.718117441782994, -6.30389971257691 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "Bi Coffee", "Lintang": -6.3051109420911597, "Bujur": 106.72269472027401 }, "geometry": { "type": "Point", "coordinates": [ 106.722694720274006, -6.30511094209116 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "GAIA", "Lintang": -6.30947650143397, "Bujur": 106.713986044588 }, "geometry": { "type": "Point", "coordinates": [ 106.713986044587998, -6.30947650143397 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "Gubhida All You Can Eat Ciputat", "Lintang": -6.3087550509117598, "Bujur": 106.719088811151 }, "geometry": { "type": "Point", "coordinates": [ 106.719088811150996, -6.30875505091176 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "Sate VGL Pak Herman", "Lintang": -6.3026356095705696, "Bujur": 106.714984126123 }, "geometry": { "type": "Point", "coordinates": [ 106.714984126122999, -6.30263560957057 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "Oemah Sambal Marem", "Lintang": -6.3017678791848999, "Bujur": 106.715029726195 }, "geometry": { "type": "Point", "coordinates": [ 106.715029726194999, -6.3017678791849 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "Ketupat Sayur Padang", "Lintang": -6.2981042298921199, "Bujur": 106.71352870683501 }, "geometry": { "type": "Point", "coordinates": [ 106.713528706835007, -6.29810422989212 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "Pempek Ampera 99", "Lintang": -6.3029233670509202, "Bujur": 106.717734161172 }, "geometry": { "type": "Point", "coordinates": [ 106.717734161172004, -6.30292336705092 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "Simpel Resto", "Lintang": -6.3028733287324501, "Bujur": 106.71813282030701 }, "geometry": { "type": "Point", "coordinates": [ 106.718132820307005, -6.30287332873245 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "Bakmi Ayam Oh Lala", "Lintang": -6.3031942832829904, "Bujur": 106.718753880725 }, "geometry": { "type": "Point", "coordinates": [ 106.718753880725004, -6.30319428328299 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "Kopi Lain Hati", "Lintang": -6.3030049491784403, "Bujur": 106.718925317759 }, "geometry": { "type": "Point", "coordinates": [ 106.718925317759002, -6.30300494917844 ] } },
+{ "type": "Feature", "properties": { "Location_Name": "Tahu Kriuk Yes, Indomaret Merpati Residence", "Lintang": -6.3032815479848496, "Bujur": 106.721500612968 }, "geometry": { "type": "Point", "coordinates": [ 106.721500612968001, -6.30328154798485 ] } }
+]
+}
